@@ -1,2 +1,2 @@
 This is content of file 2
-commit 4 content
+commit 4 content modified using rebase --interactive
